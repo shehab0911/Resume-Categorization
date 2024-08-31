@@ -14,4 +14,7 @@ first, it will add the user to a csv file and then it will category the resume.
 ---
 -- Step 3: Install dependencies
 - pip install -r requirement.txt
+---
+- Step 4:
+- run : streamlit run app.py   
 
