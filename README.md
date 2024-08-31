@@ -5,7 +5,7 @@ first, it will add the user to a csv file and then it will category the resume.
 ---
 ### Installation:
 -- Step 1:Clone this repository
-- [Clone this repository](https://github.com/shehab0911/Resume-Categorization.git).
+- [Clone this repository] https://github.com/shehab0911/Resume-Categorization.git.
 - cd resume-categorization
 ---
 --Step 2:Create virtual environment
